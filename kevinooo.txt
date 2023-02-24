@@ -1,4 +1,4 @@
 Hola tengo 27 años soy kevin,
 aun no programo en nada , 
 pero espero esforzarme y trabajar en alguna empresa.
-recambios para verificar la funcion del CHECKOUT PAPA
+cambios para verificar checkout
